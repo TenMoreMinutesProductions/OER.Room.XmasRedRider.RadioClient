@@ -1,0 +1,23 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VSCode
+.vscode/
+
+# Build artifacts
+*.elf
+*.bin
+*.hex
+*.map
+
+# Arduino
+*.eep
+*.lst
+*.sym
+build/
+
+# OS files
+.DS_Store
+Thumbs.db

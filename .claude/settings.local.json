@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\Users\\Admin\\OneDrive\\ER\\Arduino\\Templates\\Escape-Room\\Templates\\ESP32\\lib\")",
+      "Bash(dir:*)",
+      "Bash(pio run:*)",
+      "Bash(cat:*)",
+      "Bash(ren \"C:\\Users\\Admin\\OneDrive\\ER\\Arduino\\Templates\\Escape-Room\\Rooms\\Xmas-RedRider\\Radio - Client\\src\\SampleFunction.cpp\" \"RadioDial.cpp\")",
+      "Bash(ren \"C:\\Users\\Admin\\OneDrive\\ER\\Arduino\\Templates\\Escape-Room\\Rooms\\Xmas-RedRider\\Radio - Client\\src\\SampleFunction.h\" \"RadioDial.h\")",
+      "WebFetch(domain:github.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
